@@ -22,10 +22,7 @@ Ce projet implémente un **système de recommandation de films** basé sur l’a
 📁 Films_recommandations
 │── 📄 Films_recommandations.ipynb  # Notebook principal avec le code du projet  
 │── 📄 requirements.txt  # Dépendances du projet  
-│── 📄 README.md  # Documentation  
-│── 📁 data/  # Contient les jeux de données utilisés  
-│── 📁 models/  # Contient les modèles sauvegardés (si applicable)  
-│── 📁 src/  # Contient les scripts Python du projet   
+│── 📄 README.md  # Documentation    
 ```
 
 ---
