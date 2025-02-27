@@ -22,7 +22,8 @@ Ce projet implémente un **système de recommandation de films** basé sur l’a
 📁 Films_recommandations
 │── 📄 Films_recommandations.ipynb  # Notebook principal avec le code du projet  
 │── 📄 requirements.txt  # Dépendances du projet  
-│── 📄 README.md  # Documentation    
+│── 📄 README.md  # Documentation
+│── 📄 LICENCE 
 ```
 
 ---
@@ -100,4 +101,4 @@ Ce projet est sous licence MIT. Vous êtes libre de l’utiliser et de le modifi
 ---
 
 ## 👨‍💻 Auteur  
-🎯 **[Arnaud Stadler](https://github.com/arnaudstdr)** – Machine Learning Developer Junior 🎬  
+🎯 **[arnaudstdr](https://github.com/arnaudstdr)** – Machine Learning Developer Junior 🎬  
