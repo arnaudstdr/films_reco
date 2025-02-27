@@ -75,18 +75,6 @@ Trois approches ont été explorées :
 
 ---
 
-## 🔍 Évaluation des performances  
-- **Métriques utilisées** :  
-  - **RMSE (Root Mean Squared Error)** 📉  
-  - **Recall@K** 🔎  
-  - **NDCG (Normalized Discounted Cumulative Gain)**  
-
-- **Résultats obtenus :**  
-  - Modèle SVD : **RMSE = 0.95**  
-  - Modèle KNN : **RMSE = 1.02**  
-
----
-
 ## 📌 Améliorations possibles  
 ✅ **Gestion du "Cold Start"** pour les nouveaux utilisateurs/films  
 ✅ **Optimisation des hyperparamètres** avec GridSearchCV  
